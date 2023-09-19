@@ -73,9 +73,8 @@ mvn tomcat7:run-war
 #adding the reference``
 #adding the second reference
 #third line 
-<<<<<<< HEAD
-#fourth line 
+fourth line 
 =======
 #fourth line
 #fisftch line
->>>>>>> 4210d19 (adding the modifications)
+Next months code oct 
